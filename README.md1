@@ -1,0 +1,6 @@
+BC5-9 - TextField con limpieza automática
+
+Igual que BC5-8 pero el campo de texto se vaciara al pulsar el botón.
+
+Usando de base el BC5-8 pero añadiendo textField.clear(). Se llama a textField.clear() despues de mostrar el texto en el 
+label para dejar el campo vacio.
